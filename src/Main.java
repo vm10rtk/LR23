@@ -20,7 +20,7 @@ public class Main {
                 p.institution();
             }
             else if (x==2) {
-
+                System.out.println("NewBranch");
             }
             else if (x==3) {
 
